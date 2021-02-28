@@ -18,8 +18,3 @@ function topFunction() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
 }
-
-var preloader = document.getElementById("preloader");
-function myFunction(){
-    preloader.style.display="none";
-}
