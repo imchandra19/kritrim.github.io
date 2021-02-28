@@ -27,7 +27,7 @@ i {
 .header {
     width: 100%;
     height: 100vh;
-    background-image: url('/lg.jpg');
+    background-image: url('lg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
@@ -409,7 +409,7 @@ i {
     .header {
         width: 100%;
         height: 100vh;
-        background-image: url('/md.jpg');
+        background-image: url('md.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size:cover;
